@@ -100,3 +100,4 @@ rfm['M_Score'] = pd.qcut(rfm['Monetary'], 5, labels=[1, 2, 3, 4, 5]).astype(int)
 ```
 
 ---
+## Snapshos of Dashboard
