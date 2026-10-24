@@ -101,3 +101,6 @@ rfm['M_Score'] = pd.qcut(rfm['Monetary'], 5, labels=[1, 2, 3, 4, 5]).astype(int)
 
 ---
 ## Snapshos of Dashboard
+---
+https://github.com/sharayudange1204/ECA-Dashboard/blob/main/Snapshots%20of%20ECA%20Project.pptx
+---
